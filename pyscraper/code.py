@@ -10,9 +10,7 @@ def writetoJSON(path, filename, data) :
         json.dump(data, fp, indent=4)
 
 
-
 url = "https://summerofcode.withgoogle.com/api/program/2022/organizations/"
-# url = "https://summerofcode.withgoogle.com/programs/2022/organizations"
 
 
 
